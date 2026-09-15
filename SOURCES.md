@@ -62,9 +62,9 @@ https://confluence.ecmwf.int/spaces/CKB/pages/133262398/
 
 用于核验：
 
-$$
+```math
 |\mathbf V|=\sqrt{u^2+v^2}
-$$
+```
 
 以及气象风向定义与普通数学极坐标约定的差异。
 

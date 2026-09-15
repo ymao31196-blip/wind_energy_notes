@@ -23,17 +23,17 @@ Pandit等（2023）的综述指出，研究中最常见的是10 min聚合SCADA�
 
 两类数据的关系可以概括为：
 
-$$
+```math
 \text{SCADA}
 \rightarrow
 \text{长期、低频、全机组运行状态},
-$$
+```
 
-$$
+```math
 \text{CMS}
 \rightarrow
 \text{局部、高频、部件健康信息}.
-$$
+```
 
 实际诊断可以组合两类数据。
 
@@ -57,7 +57,7 @@ $$
 
 SCADA状态监测中常建立Normal Behaviour Model（NBM）。模型使用健康时段的数据学习正常输入—输出关系，例如
 
-$$
+```math
 \hat T_{bearing}
 =
 f(
@@ -66,17 +66,17 @@ P,
 T_{ambient},
 \ldots
 ).
-$$
+```
 
 当实际轴承温度持续偏离预测值时，残差
 
-$$
+```math
 r_t
 =
 T_{bearing,t}
 -
 \hat T_{bearing,t}
-$$
+```
 
 可能成为异常指标。
 

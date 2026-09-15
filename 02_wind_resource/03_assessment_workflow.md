@@ -14,9 +14,9 @@
 
 Measure-Correlate-Predict（MCP）的基本结构是：
 
-$$
+```math
 V_{site}=F(V_{ref},\mathbf z)+\varepsilon,
-$$
+```
 
 其中$`V_{site}`$表示现场风况，$`V_{ref}`$表示长期参考序列，$`\mathbf z`$可以包含风向、季节或其他辅助变量。
 
@@ -63,7 +63,7 @@ Haupt等对DOE Atmosphere to Electrons中微尺度耦合工作的总结指出，
 
 一条典型链路可以概括为：
 
-$$
+```math
 \text{现场测量}
 \rightarrow
 \text{长期订正}
@@ -75,7 +75,7 @@ $$
 \text{风机功率}
 \rightarrow
 \text{AEP与不确定性}.
-$$
+```
 
 每一步都会引入新的假设和误差来源。工程上的可追溯性要求记录数据来源、参数、损失项和不确定性传播方式。
 

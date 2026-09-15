@@ -13,7 +13,7 @@ Lee和Fields在2021年的综述中整理了风电行业常见损失项，包括�
 
 可用一个简化关系表示：
 
-$$
+```math
 AEP_{net}
 =
 AEP_{gross}
@@ -21,7 +21,7 @@ AEP_{gross}
 \left(1-L_{availability}\right)
 \left(1-L_{electrical}\right)
 \cdots
-$$
+```
 
 实际工程中损失项之间未必完全独立，上式主要用于理解损失如何进入能量链条。
 
@@ -56,13 +56,13 @@ Hammond和Simley在2026年的Wind Energy Science研究中比较了建设前能�
 
 长期发电量波动至少包含两个来源：
 
-$$
+```math
 \text{AEP variability}
 =
 \text{climate variability}
 +
 \text{model / measurement uncertainty}.
-$$
+```
 
 这只是概念分解，两部分在实际分析中并不一定严格可加。
 
@@ -88,7 +88,7 @@ $$
 
 CanESM5—ERA5案例使用CF代理检查上游风场处理差异能否传导到下游指标。它的位置大致是：
 
-$$
+```math
 \text{气候模式风场}
 \rightarrow
 \text{精细化}
@@ -96,11 +96,11 @@ $$
 \text{风速代理}
 \rightarrow
 \text{CF代理}.
-$$
+```
 
 真实风电项目还需要继续经过：
 
-$$
+```math
 \text{轮毂高度风况}
 \rightarrow
 \text{风机与风场模型}
@@ -112,7 +112,7 @@ $$
 \text{Net AEP}
 \rightarrow
 \text{P50/P90}.
-$$
+```
 
 把两条链分开，可以避免把气候研究中的代理量解释成工程项目的真实发电收益。
 

@@ -21,13 +21,13 @@
 
 对于一个由多个变量决定的量
 
-$$
+```math
 Y=f(x_1,x_2,\ldots,x_n),
-$$
+```
 
 在小扰动、近线性且误差独立的条件下，可以用一阶近似：
 
-$$
+```math
 \sigma_Y^2
 \approx
 \sum_i
@@ -35,17 +35,17 @@ $$
 \frac{\partial f}{\partial x_i}
 \right)^2
 \sigma_{x_i}^2.
-$$
+```
 
 如果变量之间存在协方差，还需要加入交叉项：
 
-$$
+```math
 \sigma_Y^2
 \approx
 \mathbf J
 \mathbf\Sigma
 \mathbf J^\mathsf T,
-$$
+```
 
 其中$`\mathbf J`$是对输入变量的局部敏感度，$`\mathbf\Sigma`$是输入协方差矩阵。
 
@@ -55,17 +55,17 @@ $$
 
 更通用的做法是为不确定输入指定分布，反复抽样并重新计算完整链路：
 
-$$
+```math
 \mathbf x^{(k)}
 \sim
 p(\mathbf x),
-$$
+```
 
-$$
+```math
 AEP^{(k)}
 =
 F(\mathbf x^{(k)}).
-$$
+```
 
 经过大量样本后，可以直接得到AEP经验分布。P50和P90等量来自这个分布，而非单独添加在最终AEP上的固定百分比。
 
