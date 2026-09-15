@@ -44,7 +44,7 @@ Gross / Net AEP 与不确定性
 | [05_methods](05_methods/01_downscaling_and_ai.md) | 降尺度、精细化与AI方法 |
 | [06_case_study](06_case_study/01_canesm5_era5_balanced_refinement.md) | CanESM5—ERA5风场精细化案例 |
 | [07_resources](07_resources/README.md) | 官方资料、论文与开源项目索引 |
-| [08_library](08_library/README.md) | 本地论文和技术资料库 |
+| [08_library](08_library/README.md) | 论文、技术报告与来源追溯资料库 |
 | [09_notebooks](09_notebooks/README.md) | 计算示例与静态图 |
 
 ## 计算示例
@@ -57,7 +57,7 @@ Gross / Net AEP 与不确定性
 
 ## 来源与边界
 
-关键来源与核验记录见[SOURCES.md](SOURCES.md)，本地论文和技术资料见[08_library](08_library/README.md)。社区项目用于补充工作流和工程实践，不承担正式定义的来源角色。
+关键来源与核验记录见[SOURCES.md](SOURCES.md)，已归档的论文和技术资料见[08_library](08_library/README.md)。社区项目用于补充工作流和工程实践，不承担正式定义的来源角色。
 
 `06_case_study`来自当前CanESM5—ERA5风场精细化重跑结果。未来SSP585部分只描述结构迁移，不提供未来准确度验证；月平均近地层`u,v`得到的CF只作为代理指标使用。
 
