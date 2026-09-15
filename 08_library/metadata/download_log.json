@@ -1,0 +1,83 @@
+[
+  {
+    "file": "08_library\\papers\\2019_Swart_CanESM5_GMD.pdf",
+    "url": "https://gmd.copernicus.org/articles/12/4823/2019/gmd-12-4823-2019.pdf",
+    "bytes": 38297992,
+    "sha256": "19aabd09d39a6f5ffbd56dcd746aba1dedcfd9b34c38cda3dcaf65e2e49563b5",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2016_ONeill_ScenarioMIP_CMIP6_GMD.pdf",
+    "url": "https://gmd.copernicus.org/articles/9/3461/2016/gmd-9-3461-2016.pdf",
+    "bytes": 2168578,
+    "sha256": "a6282c64fac4f35ffcb5a97c0aba948dfa9220e53ece56c9d4995c3c1aa28ff7",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2022_Pronk_ERA5_vs_WRF_WindResource_WES.pdf",
+    "url": "https://wes.copernicus.org/articles/7/487/2022/wes-7-487-2022.pdf",
+    "bytes": 3862543,
+    "sha256": "102b24351991b4f4dc9b856c9ba1de7efaf0d860fec87b1fcdf52a8c6d342f0c",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2021_Lee_Fields_WindEnergyPredictionBias_Uncertainty_WES.pdf",
+    "url": "https://wes.copernicus.org/articles/6/311/2021/wes-6-311-2021.pdf",
+    "bytes": 3101131,
+    "sha256": "153a3ed55bebb8cbbbbdcd419281bb9aa1b47d5d1fe26b33dee4a8d42141e6e4",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2023_Haupt_Mesoscale_Microscale_Coupling_WES.pdf",
+    "url": "https://wes.copernicus.org/articles/8/1251/2023/wes-8-1251-2023.pdf",
+    "bytes": 5498298,
+    "sha256": "f283d74b18265078fb2c3f936bdeb16a58d88843b95e398693237424633dd447",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2026_Zhou_Esau_WindSpeedSeriesLength_WES.pdf",
+    "url": "https://wes.copernicus.org/articles/11/217/2026/wes-11-217-2026.pdf",
+    "bytes": 7677673,
+    "sha256": "bf93b425a1d95879f340616ecdda6d48f0603633edec4daa65e5823ab9d8c9c8",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2020_WRF_CFD_Coupling_Uncertainty_WES.pdf",
+    "url": "https://wes.copernicus.org/articles/5/997/2020/wes-5-997-2020.pdf",
+    "bytes": 3509569,
+    "sha256": "7a8eaff7ad41a1cc512d3ab5d03e1be9c2b7eeaa4d815b3d293ac1c0af328832",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\papers\\2024_Soci_ERA5_1940_2022_QJRMS.pdf",
+    "url": "https://repository.library.noaa.gov/view/noaa/68132/noaa_68132_DS1.pdf",
+    "status": "error",
+    "error": "<HTTPError 403: 'Forbidden'>"
+  },
+  {
+    "file": "08_library\\papers\\2026_Borowski_ClimateModel_Integration_WRA_PREPRINT.pdf",
+    "url": "https://wes.copernicus.org/preprints/wes-2026-129/wes-2026-129.pdf",
+    "bytes": 27993055,
+    "sha256": "d9e773bb23f39e1474033d6c32221271bdc5c0cdc0ed34ef3025ee2af3985449",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\reports\\2019_Skamarock_WRF_ARW_v4_TechnicalNote.pdf",
+    "url": "https://www2.mmm.ucar.edu/wrf/users/docs/technote/v4_technote.pdf",
+    "bytes": 2979946,
+    "sha256": "981cc9bf7e5428f21d8ebcf92980ca109ed6a83b2105a6ffe1ed2f23b1c3ee70",
+    "status": "ok"
+  },
+  {
+    "file": "08_library\\reports\\NREL_60429_Wind_Resource_Assessment.pdf",
+    "url": "https://www.nrel.gov/docs/fy14osti/60429.pdf",
+    "status": "error",
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)'))"
+  },
+  {
+    "file": "08_library\\reports\\NREL_63696_Small_Wind_Site_Assessment.pdf",
+    "url": "https://docs.nrel.gov/docs/fy15osti/63696.pdf",
+    "status": "error",
+    "error": "URLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)'))"
+  }
+]
