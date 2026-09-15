@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T13:50:00+08:00",
-  "note": "inventory excludes itself",
-  "file_count": 22,
-  "total_bytes": 140846789,
+  "generated_at": "2026-09-15T16:10:00+08:00",
+  "note": "inventory excludes itself; local PDF archive removed",
+  "file_count": 5,
+  "total_bytes": 503582,
   "files": [
     {
       "path": "08_library/metadata/download_log.json",
@@ -11,112 +11,10 @@
       "mime_type": "application/json"
     },
     {
-      "path": "08_library/papers/2016_ONeill_ScenarioMIP_CMIP6_GMD.pdf",
-      "bytes": 2168578,
-      "sha256": "a6282c64fac4f35ffcb5a97c0aba948dfa9220e53ece56c9d4995c3c1aa28ff7",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2019_Swart_CanESM5_GMD.pdf",
-      "bytes": 38297992,
-      "sha256": "19aabd09d39a6f5ffbd56dcd746aba1dedcfd9b34c38cda3dcaf65e2e49563b5",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2020_PorteAgel_Wind_Turbine_Farm_Flows_Review_BLM.pdf",
-      "bytes": 4077453,
-      "sha256": "6df5a0245006d2bbadb8ea706e37699e4016cad1da17a0fc413a7de78d0acc84",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2020_WRF_CFD_Coupling_Uncertainty_WES.pdf",
-      "bytes": 3509569,
-      "sha256": "7a8eaff7ad41a1cc512d3ab5d03e1be9c2b7eeaa4d815b3d293ac1c0af328832",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2021_Lee_Fields_WindEnergyPredictionBias_Uncertainty_WES.pdf",
-      "bytes": 3101131,
-      "sha256": "153a3ed55bebb8cbbbbdcd419281bb9aa1b47d5d1fe26b33dee4a8d42141e6e4",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2022_Barber_Complex_Terrain_WRA_Accuracy_WES.pdf",
-      "bytes": 5558914,
-      "sha256": "fc021c810e4722c0acc395bf6600a9d3dfd093eb56fd354d480c3ff397106871",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2022_Pronk_ERA5_vs_WRF_WindResource_WES.pdf",
-      "bytes": 3862543,
-      "sha256": "102b24351991b4f4dc9b856c9ba1de7efaf0d860fec87b1fcdf52a8c6d342f0c",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2023_Haupt_Mesoscale_Microscale_Coupling_WES.pdf",
-      "bytes": 5498298,
-      "sha256": "f283d74b18265078fb2c3f936bdeb16a58d88843b95e398693237424633dd447",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2023_Pandit_SCADA_Condition_Performance_Monitoring_Review.pdf",
-      "bytes": 1577964,
-      "sha256": "72ced5e8e061f46edd2215234a407085f6682e7eb28b4c12919fecdb8e86e8b1",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2024_Blaabjerg_Power_Electronics_Wind_Generation_DRAFT.pdf",
-      "bytes": 1035737,
-      "sha256": "2aca7282cafd4a59546c6b95f08ef7e31e4699ee178d42c4eab23244fae087fd",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Agarwal_Lundquist_Atmospheric_Stability_Complex_Terrain_WES.pdf",
-      "bytes": 10071194,
-      "sha256": "f7d47fbc2ed1d4760d9fec52423bdceca91a214f278baef90fa01c99c7ae8849",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Borowski_ClimateModel_Integration_WRA_PREPRINT.pdf",
-      "bytes": 27993055,
-      "sha256": "d9e773bb23f39e1474033d6c32221271bdc5c0cdc0ed34ef3025ee2af3985449",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Drobinski_GriddedClimateDatasets_RenewableYield_npj.pdf",
-      "bytes": 1393132,
-      "sha256": "2de533d1e22e70e7c30e94212cf17c78c50a4ca6ba86f2f77e1ead13d1b75c67",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Hammond_Simley_Preconstruction_AEP_Bias_WES.pdf",
-      "bytes": 5091487,
-      "sha256": "d3228f03a01fbd9d4577901fd4cc3c2977f451eb000707bed54f2923808aed23",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Kosovic_Atmospheric_Turbulence_Wind_Turbines_WES.pdf",
-      "bytes": 16446254,
-      "sha256": "81aeff2a639ae16b465add941321b0bab5f360c40beb852cbcfa1c74a992634e",
-      "mime_type": "application/pdf"
-    },
-    {
-      "path": "08_library/papers/2026_Zhou_Esau_WindSpeedSeriesLength_WES.pdf",
-      "bytes": 7677673,
-      "sha256": "bf93b425a1d95879f340616ecdda6d48f0603633edec4daa65e5823ab9d8c9c8",
-      "mime_type": "application/pdf"
-    },
-    {
       "path": "08_library/README.md",
-      "bytes": 6080,
-      "sha256": "2326edcd8273a4ad6a4357800146bfd487d31cc91103f1d1ed37bcaf728bbdcc",
+      "bytes": 3793,
+      "sha256": "cc3d69fa6905d8df33c0f4a8e5ccfc5c4528cf6444fc8311527c6d72f836ffcb",
       "mime_type": "text/markdown"
-    },
-    {
-      "path": "08_library/reports/2019_Skamarock_WRF_ARW_v4_TechnicalNote.pdf",
-      "bytes": 2979946,
-      "sha256": "981cc9bf7e5428f21d8ebcf92980ca109ed6a83b2105a6ffe1ed2f23b1c3ee70",
-      "mime_type": "application/pdf"
     },
     {
       "path": "08_library/reports/Global_Wind_Atlas_Method.html",

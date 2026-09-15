@@ -327,7 +327,7 @@ https://doi.org/10.1038/s44287-024-00032-x
 - 典型grid code涉及有功/频率响应、电压与无功支撑、故障穿越、电能质量、保护和通信；
 - 高比例电力电子电源条件下，grid-forming和频率支撑成为风电并网的重要研究方向。
 
-本地保存的是Aalborg University门户公开的submitted manuscript。门户页面标注CC BY-NC 4.0，文件首页同时保留作者门户使用限制说明，因此只作为本地研究副本。
+前期核验使用了Aalborg University门户公开的submitted manuscript。门户页面标注CC BY-NC 4.0，作者稿首页同时保留门户使用限制说明；当前不再保留本地PDF，仅保留DOI和来源核验记录。
 
 ### Pandit et al. (2023)
 

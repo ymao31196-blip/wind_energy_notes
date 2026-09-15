@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .venv/
 .tmp_nb_env/
+08_library/**/*.pdf
+08_library/reports/*.html
