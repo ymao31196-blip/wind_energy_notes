@@ -2,7 +2,7 @@
 
 围绕风资源评估、气象数据、多尺度数值模拟、风电能量评估和气候应用整理的一组研究笔记。内容按问题链组织，基础事实优先来自官方文档、同行评议论文和长期维护的开源项目。
 
-当前内容覆盖从风况描述到AEP与不确定性的工程链，也保留一个CanESM5—ERA5风场精细化案例，用于讨论气候模式精细化中的参考恢复、状态保持和下游风电指标传导。
+当前内容覆盖从风况描述到年发电量（Annual Energy Production, AEP）与不确定性的工程链，也保留一个CanESM5—ERA5风场精细化案例，用于讨论气候模式精细化中的参考恢复、状态保持和下游风电指标传导。
 
 ## 研究链条
 
@@ -24,11 +24,13 @@ Gross / Net AEP 与不确定性
 风险与电力系统应用
 ```
 
+在这条链里，风速描述气象状态，功率表示某一时刻或时间段内的能量转换速率，发电量是功率随时间的累计；容量因子（Capacity Factor, CF）再把实际发电量与额定功率持续运行时的理论最大发电量进行比较。
+
 ## 研究主题
 
 | 线索 | 关注内容 | 入口 |
 |---|---|---|
-| 风资源评估 | 测量、长期代表性、MCP、边界层、稳定度与空间外推 | [从风到风资源](02_wind_resource/01_from_wind_to_resource.md) · [长期代表性](02_wind_resource/02_variability_and_measurement.md) · [评估链条](02_wind_resource/03_assessment_workflow.md) · [ABL/稳定度/湍流](02_wind_resource/04_boundary_layer_stability_turbulence.md) |
+| 风资源评估 | 测量、长期代表性、MCP长期订正、边界层、稳定度与空间外推 | [从风到风资源](02_wind_resource/01_from_wind_to_resource.md) · [长期代表性](02_wind_resource/02_variability_and_measurement.md) · [评估链条](02_wind_resource/03_assessment_workflow.md) · [ABL/稳定度/湍流](02_wind_resource/04_boundary_layer_stability_turbulence.md) |
 | 风到电 | 功率曲线、CF、AEP、不确定性、风机控制、电力电子与SCADA | [功率曲线与CF](03_wind_to_power/01_power_curve_and_capacity_factor.md) · [AEP与不确定性](03_wind_to_power/02_energy_yield_and_uncertainty.md) · [不确定性传播](03_wind_to_power/03_uncertainty_propagation.md) · [风机控制与电力电子](03_wind_to_power/04_turbine_control_power_electronics.md) · [SCADA运行监测](03_wind_to_power/05_scada_operation_monitoring.md) |
 | 多尺度气象 | ERA5、气候模式、WRF、CFD、复杂地形与尾流 | [观测/再分析/气候模式](04_data_and_models/01_measurement_reanalysis_climate_models.md) · [WRF与CFD](04_data_and_models/02_wrf_and_cfd.md) · [复杂地形与尾流](04_data_and_models/03_complex_terrain_and_wakes.md) |
 | 数据驱动与气候应用 | 降尺度、AI精细化、未来迁移与评价边界 | [降尺度与AI](05_methods/01_downscaling_and_ai.md) · [CanESM5—ERA5案例](06_case_study/01_canesm5_era5_balanced_refinement.md) |
@@ -62,4 +64,4 @@ Gross / Net AEP 与不确定性
 `06_case_study`来自当前CanESM5—ERA5风场精细化重跑结果。未来SSP585部分只描述结构迁移，不提供未来准确度验证；月平均近地层`u,v`得到的CF只作为代理指标使用。
 
 ---
-Last reviewed: 2026-09-15
+Last reviewed: 2026-09-18

@@ -19,7 +19,7 @@
 5. `05_turbine_control_regions.ipynb`  
    用归一化变量展示额定以下转矩控制、额定以上功率限制和变桨之间的关系。
 
-这些Notebook使用`numpy`和`matplotlib`，依赖见`requirements.txt`。示例结果用于检查概念和计算顺序，不产生可用于项目开发的AEP、P50或P90。工程方法和来源见正文与`08_library`。
+这些Notebook使用`numpy`和`matplotlib`，依赖见`requirements.txt`。代码中的随机样本均为合成数据，坐标、风速分布、损失比例和控制参数只服务于对应概念演示。图中出现的AEP、P50、P90或控制曲线因此只用于检查计算关系和顺序，不代表任何真实场址、机型或项目。工程方法和来源见正文与`08_library`。
 
 ## 图形预览
 
