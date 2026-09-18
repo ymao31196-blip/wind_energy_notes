@@ -34,6 +34,7 @@ Gross / Net AEP 与不确定性
 | 风到电 | 功率曲线、CF、AEP、不确定性、风机控制、电力电子与SCADA | [功率曲线与CF](03_wind_to_power/01_power_curve_and_capacity_factor.md) · [AEP与不确定性](03_wind_to_power/02_energy_yield_and_uncertainty.md) · [不确定性传播](03_wind_to_power/03_uncertainty_propagation.md) · [风机控制与电力电子](03_wind_to_power/04_turbine_control_power_electronics.md) · [SCADA运行监测](03_wind_to_power/05_scada_operation_monitoring.md) |
 | 多尺度气象 | ERA5、气候模式、WRF、CFD、复杂地形与尾流 | [观测/再分析/气候模式](04_data_and_models/01_measurement_reanalysis_climate_models.md) · [WRF与CFD](04_data_and_models/02_wrf_and_cfd.md) · [复杂地形与尾流](04_data_and_models/03_complex_terrain_and_wakes.md) |
 | 数据驱动与气候应用 | 降尺度、AI精细化、未来迁移与评价边界 | [降尺度与AI](05_methods/01_downscaling_and_ai.md) · [CanESM5—ERA5案例](06_case_study/01_canesm5_era5_balanced_refinement.md) |
+| 硕士课题主线 | WRF、多源数据融合、CFD耦合、AI风资源评估与复杂地形应用 | [课题系统展开](10_master_topic/01_wrf_multisource_cfd_ai_wind_resource.md) |
 
 ## 目录
 
@@ -48,6 +49,7 @@ Gross / Net AEP 与不确定性
 | [07_resources](07_resources/README.md) | 官方资料、论文与开源项目索引 |
 | [08_library](08_library/README.md) | 论文、技术报告与来源追溯资料库 |
 | [09_notebooks](09_notebooks/README.md) | 计算示例与静态图 |
+| [10_master_topic](10_master_topic/01_wrf_multisource_cfd_ai_wind_resource.md) | WRF—多源融合—CFD—AI风资源评估课题主线 |
 
 ## 计算示例
 
