@@ -405,19 +405,19 @@ E,
 
 ## 参考资料
 
-1. NCAR, *WRF Model Users Site*.  
+1. NCAR, *WRF Model Users Site*.
    https://www2.mmm.ucar.edu/wrf/users/
-2. Haupt, S. E. et al. (2023), *Lessons learned in coupling atmospheric models across scales for onshore and offshore wind energy*. Wind Energy Science.  
+2. Haupt, S. E. et al. (2023), *Lessons learned in coupling atmospheric models across scales for onshore and offshore wind energy*. Wind Energy Science.
    https://doi.org/10.5194/wes-8-1251-2023
-3. Pronk, V. et al. (2022), *Can reanalysis products outperform mesoscale numerical weather prediction models in modeling the wind resource in simple terrain?* Wind Energy Science.  
+3. Pronk, V. et al. (2022), *Can reanalysis products outperform mesoscale numerical weather prediction models in modeling the wind resource in simple terrain?* Wind Energy Science.
    https://doi.org/10.5194/wes-7-487-2022
-4. Kosović, B. et al. (2026), *Impact of atmospheric turbulence on performance and loads of wind turbines: knowledge gaps and research challenges*. Wind Energy Science.  
+4. Kosović, B. et al. (2026), *Impact of atmospheric turbulence on performance and loads of wind turbines: knowledge gaps and research challenges*. Wind Energy Science.
    https://doi.org/10.5194/wes-11-509-2026
-5. Agarwal, N. J. and Lundquist, J. K. (2026), *Characterizing atmospheric stability in complex terrain*. Wind Energy Science.  
+5. Agarwal, N. J. and Lundquist, J. K. (2026), *Characterizing atmospheric stability in complex terrain*. Wind Energy Science.
    https://doi.org/10.5194/wes-11-883-2026
-6. Barber, S. et al. (2022), *The wide range of factors contributing to wind resource assessment accuracy in complex terrain*. Wind Energy Science.  
+6. Barber, S. et al. (2022), *The wide range of factors contributing to wind resource assessment accuracy in complex terrain*. Wind Energy Science.
    https://doi.org/10.5194/wes-7-1503-2022
-7. Porté-Agel, F., Bastankhah, M., and Shamsoddin, S. (2020), *Wind-Turbine and Wind-Farm Flows: A Review*. Boundary-Layer Meteorology.  
+7. Porté-Agel, F., Bastankhah, M., and Shamsoddin, S. (2020), *Wind-Turbine and Wind-Farm Flows: A Review*. Boundary-Layer Meteorology.
    https://doi.org/10.1007/s10546-019-00473-0
-8. Drobinski, P. (2026), *Assessing renewable wind and solar energy yield with gridded climate datasets*. npj Climate Action.  
+8. Drobinski, P. (2026), *Assessing renewable wind and solar energy yield with gridded climate datasets*. npj Climate Action.
    https://doi.org/10.1038/s44168-025-00332-4
